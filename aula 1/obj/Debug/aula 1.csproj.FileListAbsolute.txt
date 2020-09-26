@@ -1,0 +1,11 @@
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\aula 1\aula 1\obj\Debug\aula 1.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\aula 1\aula 1\obj\Debug\aula_1.frmpropriedadescheckbox.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\aula 1\aula 1\obj\Debug\aula_1.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\aula 1\aula 1\obj\Debug\aula 1.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\aula 1\aula 1\obj\Debug\aula 1.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\aula 1\aula 1\bin\Debug\aula 1.exe.config
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\aula 1\aula 1\bin\Debug\aula 1.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\aula 1\aula 1\bin\Debug\aula 1.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\aula 1\aula 1\obj\Debug\aula_1.cadastro.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\aula 1\aula 1\obj\Debug\aula 1.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\aula 1\aula 1\obj\Debug\aula 1.pdb
